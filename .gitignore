@@ -76,6 +76,13 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+Exploration_phase_images.ipynb
+Functions-Copy1.ipynb
+Functions.ipynb
+final.ipynb
+finalfinal.ipynb
+finalfinalfinal-Copy2.ipynb
+finalfinalfinal.ipynb
 
 # IPython
 profile_default/
@@ -127,3 +134,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
