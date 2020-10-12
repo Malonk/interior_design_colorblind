@@ -32,10 +32,16 @@ The tool I created will detect the 4 dominant colors of the interior and provide
 
 ### Organization
 
+Notebooks:
 - exploration_phase_1.ipynb: Exploring how to work with images
 - exploration_phase_2.ipynb: Further exploration of working with images, clustering and finding the color names
-- final_demo.iypbn: The final tool 
+- final_demo.ipynb: The final tool 
+
+Presentation:
 - presentation_slides.pdf: The presentation I created and presented at the external Hackshow at Ironhack 
+
+Data:
+- wikipedia_color_names.csv: list of HEX codes, RGB values, color names
 
 ### Sources
 
